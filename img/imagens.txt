@@ -1,0 +1,1 @@
+para criar pastas colocamos um forward slash  img/
